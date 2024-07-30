@@ -1,1 +1,1 @@
-Testing Learning GIT Spec2
+Testing Learning GIT Spec
