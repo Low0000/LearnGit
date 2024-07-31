@@ -22,4 +22,8 @@ a9f67bc 2nd point
 
 
 Collaborator Instruction
-1. 
+1. git clone URL
+2. git pull 從github拉出最新版本
+3. git branch 檢查你現在在哪個分支
+4. git checkout -b branch2 建議合作者創建新的分支，不會影響到主綫
+5. git push origin branch2 記得用分支名字
